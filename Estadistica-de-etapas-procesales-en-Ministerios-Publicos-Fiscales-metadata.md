@@ -3,7 +3,7 @@ Estadística de etapas procesales en Ministerios Públicos Fiscales
 
 En este conjunto de datos se detalla el tiempo entre hitos procesales de la causa.
 
-http://datos.jus.gob.ar/dataset/estadistica-de-etapas-procesales-en-ministerios-publicos-fiscales
+http://datos.jus.gob.ar/dataset/estadistica-de-etapas-procesales-en-los-ministerios-publicos-fiscales
 
 Características
 ---------------
