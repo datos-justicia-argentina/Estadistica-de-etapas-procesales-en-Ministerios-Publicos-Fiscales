@@ -1,4 +1,4 @@
-Estadística de etapas procesales en Ministerios Públicos Fiscales
+Estadística de etapas procesales en los Ministerios Públicos Fiscales
 =================================================================
 
 En este conjunto de datos se detalla el tiempo entre hitos procesales de la causa.
