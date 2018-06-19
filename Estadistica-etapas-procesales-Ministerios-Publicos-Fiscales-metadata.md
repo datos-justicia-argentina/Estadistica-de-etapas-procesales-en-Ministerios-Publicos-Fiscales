@@ -38,19 +38,21 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **provincia (string):** provincia en la que se cometió el delito
+-   **provincia_nombre (string):** provincia en la que se cometió el delito
 
--   **institucion (string):** institución de justicia que provee el dato
+-   **provincia_id (string):** codigo de provincia en la que se cometió el delito, según la codificación de provincia implementada por INDEC
 
--   **periodo (date):** período de tiempo entre las variables seleccionadas
+-   **institucion_nombre (string):** nombre de la institución
 
--   **variable (string):** las variables pueden ser:
+-   **variable_nombre (string):** las variables pueden ser:
 
 	-   fecha inicio - Audiencia de imputación o declaración del imputado
 
 	-   fecha inicio - Acusación / Requerimiento de elevación a juicio
 
--   **tipo_proceso (string):** se diferencia el tipo de proceso: Toma los valores:
+-   **variable_periodo (string):** período de tiempo entre las variables seleccionadas
+
+-   **variable_tipo_proceso (string):** se diferencia el tipo de proceso: Toma los valores:
 
 	-   Todos
 
@@ -58,9 +60,9 @@ Recursos disponibles
 
 	-   No flagrancia
 
--   **dias_duracion (int):** cantidad de días que hay entre acto procesal
+-   **variable_duracion_dias (int):** cantidad de días que hay entre acto procesal
 
--   **cantidad (int):** cantidad de casos
+-   **variable_cantidad (int):** cantidad de casos
 
 Notas:
 ------
