@@ -1,10 +1,10 @@
-Estadística de etapas procesales en los Ministerios Públicos Fiscales
-=================================================================
+Estadística de etapas procesales en los Ministerios Públicos Provinciales
+==========================================================================
 
 En este conjunto de datos se detalla el tiempo entre hitos procesales de la causa.
 Se muestran los casos imputados y elevados a juicio al 31 de diciembre de 2017, independientemente de la fecha de inicio del caso.
 
-http://datos.jus.gob.ar/dataset/estadistica-de-etapas-procesales-en-ministerios-publicos-fiscales
+http://datos.jus.gob.ar/dataset/estadistica-de-etapas-procesales-en-ministerios-publicos-provinciales
 
 Características
 ---------------
@@ -26,9 +26,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de casos en Ministerios Públicos Fiscales - AAAA
+### Estadística de casos en Ministerios Públicos Provinciales - AAAA
 
--   **Nombre:** estadistica-etapas-procesales-ministerios-publicos-fiscales-AAAA.csv
+-   **Nombre:** estadistica-etapas-procesales-ministerios-publicos-provinciales-AAAA.csv
 
 -   **Descripción del contenido:** se detalla el tiempo entre hitos procesales de la causa
 
