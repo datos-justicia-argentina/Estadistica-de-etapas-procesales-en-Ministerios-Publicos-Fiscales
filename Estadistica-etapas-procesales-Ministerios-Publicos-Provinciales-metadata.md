@@ -11,7 +11,7 @@ Características
 
 -   **Fecha de Primera** **Publicación: 18/05/2018**
 
--   **Tags o Etiquetas:** casos, causas, delitos, instituciones, poderes judiciales, ministerios públicos, código penal, actos procesales, investigación penal preparatoria, sistemas inquisitorios, sistemas acusatorios
+-   **Tags o Etiquetas:** casos, causas, delitos, instituciones, poderes judiciales, ministerios públicos, código penal, actos procesales, investigación penal preparatoria, sistemas inquisitorios, sistemas acusatorios, Buenos Aires, Chubut, Mendoza
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Justicia y Política Criminal. Programa Justicia Abierta
 
