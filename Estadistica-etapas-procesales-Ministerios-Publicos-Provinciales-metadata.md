@@ -1,4 +1,4 @@
-Estadística de etapas procesales en los Ministerios Públicos Provinciales
+Estadística de etapas procesales en los ministerios públicos provinciales
 ==========================================================================
 
 En este conjunto de datos se detalla el tiempo entre hitos procesales de la causa.
@@ -26,9 +26,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de casos en Ministerios Públicos Provinciales - AAAA
+### Estadística de casos en ministerios públicos provinciales - AAAA
 
--   **Nombre:** estadistica-etapas-procesales-ministerios-publicos-provinciales-AAAA.csv
+-   **Nombre:** estadistica-etapas-procesales-mp-AAAA.csv
 
 -   **Descripción del contenido:** se detalla el tiempo entre hitos procesales de la causa
 
